@@ -143,4 +143,3 @@ Metrics reflect multi-class severity estimation accuracy.
 ## 🧾 References
 - [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)  
 - [Cassava Leaf Disease Dataset on Kaggle](https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classification)  
-- [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946)
