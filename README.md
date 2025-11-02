@@ -74,20 +74,14 @@ The main goal of this project is to build a robust deep learning model that can:
 
 **Visuals:**  
 
-<p align="center">
-  <b>1️⃣ Loss & Accuracy Curves</b><br>
-  <img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/Loss%20%26%20Accuracy%20(PlantVillage).png" width="600">
-</p>
+**1️⃣ Loss & Accuracy Curves**  
+<img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/Loss%20%26%20Accuracy%20(PlantVillage).png" width="600">
 
-<p align="center">
-  <b>2️⃣ Confusion Matrix</b><br>
-  <img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/Confusion%20Matrix%20(PlantVillage).png" width="600">
-</p>
+**2️⃣ Confusion Matrix**  
+<img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/Confusion%20Matrix%20(PlantVillage).png" width="600">
 
-<p align="center">
-  <b>3️⃣ ROC Curves</b><br>
-  <img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/ROC%20Curve%20(PlantVillage).png" width="600">
-</p>
+**3️⃣ ROC Curves**  
+<img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/ROC%20Curve%20(PlantVillage).png" width="600">
 
 ---
 
@@ -112,20 +106,14 @@ Metrics reflect multi-class severity estimation accuracy.
 
 **Visuals:**  
 
-<p align="center">
-  <b>1️⃣ Loss & Accuracy Curves</b><br>
-  <img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/Loss%20%26%20Accuracy%20(Cassava).png" width="600">
-</p>
+**1️⃣ Loss & Accuracy Curves**  
+<img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/Loss%20%26%20Accuracy%20(Cassava).png" width="600">
 
-<p align="center">
-  <b>2️⃣ Confusion Matrix</b><br>
-  <img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/Confusiuon%20Matrix%20(Cassava).png" width="600">
-</p>
+**2️⃣ Confusion Matrix**  
+<img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/Confusiuon%20Matrix%20(Cassava).png" width="600">
 
-<p align="center">
-  <b>3️⃣ ROC Curves</b><br>
-  <img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/ROC%20Curve%20(Cassava).png" width="600">
-</p>
+**3️⃣ ROC Curves**  
+<img src="https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/ROC%20Curve%20(Cassava).png" width="600">
 
 ---
 
