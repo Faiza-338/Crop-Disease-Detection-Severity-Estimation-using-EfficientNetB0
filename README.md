@@ -1,1 +1,1 @@
-# Crop Disease Detection & Severity Estimation
+# Crop Disease Detection Severity Estimation using EfficientNetB0
